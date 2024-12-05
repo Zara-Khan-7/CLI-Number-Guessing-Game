@@ -1,1 +1,1 @@
-javascript command line projects
+javascript command line project
